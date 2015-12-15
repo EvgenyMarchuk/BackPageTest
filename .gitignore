@@ -1,0 +1,11 @@
+build
+.idea
+out
+*.ipr
+*.iws
+.gradle
+.project
+.classpath
+chromedriver.log
+phantomjsdriver.log
+.settings
